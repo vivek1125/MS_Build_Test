@@ -1,0 +1,13 @@
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.exe
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.deps.json
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.runtimeconfig.json
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.runtimeconfig.dev.json
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.dll
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\bin\Debug\netcoreapp3.1\MSB_Project.pdb
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.csprojAssemblyReference.cache
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.AssemblyInfoInputs.cache
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.AssemblyInfo.cs
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.csproj.CoreCompileInputs.cache
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.dll
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.pdb
+C:\Users\vivek.d.raj\source\MS_Build_Test\MSB_Project\MSB_Project\obj\Debug\netcoreapp3.1\MSB_Project.genruntimeconfig.cache
